@@ -1,0 +1,101 @@
+
+**** Build of configuration Debug for project lab3-timer0_LED ****
+
+"D:\\TICCS\\ccsv6\\utils\\bin\\gmake" -k all 
+'Building file: ../SRC/DSP2833x_ADC_cal.asm'
+'Invoking: C2000 Compiler'
+"D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/bin/cl2000" --silicon_version=28 -g --define="_DEBUG" --define="LARGE_MODEL" --include_path="F:/ABT/GITPRJ/DSP/ABT001/ATV/ABT001-ATV-DSP/lab3-timer0_LED/INCLUDE" --include_path="D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/include" --include_path="/packages/ti/xdais" --diag_warning=225 --large_memory_model --float_support=fpu32 --preproc_with_compile --preproc_dependency="SRC/DSP2833x_ADC_cal.pp"  "../SRC/DSP2833x_ADC_cal.asm"
+'Finished building: ../SRC/DSP2833x_ADC_cal.asm'
+' '
+'Building file: ../SRC/DSP2833x_Adc.c'
+'Invoking: C2000 Compiler'
+"D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/bin/cl2000" --silicon_version=28 -g --define="_DEBUG" --define="LARGE_MODEL" --include_path="F:/ABT/GITPRJ/DSP/ABT001/ATV/ABT001-ATV-DSP/lab3-timer0_LED/INCLUDE" --include_path="D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/include" --include_path="/packages/ti/xdais" --diag_warning=225 --large_memory_model --float_support=fpu32 --preproc_with_compile --preproc_dependency="SRC/DSP2833x_Adc.pp"  "../SRC/DSP2833x_Adc.c"
+'Finished building: ../SRC/DSP2833x_Adc.c'
+' '
+'Building file: ../SRC/DSP2833x_CodeStartBranch.asm'
+'Invoking: C2000 Compiler'
+"D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/bin/cl2000" --silicon_version=28 -g --define="_DEBUG" --define="LARGE_MODEL" --include_path="F:/ABT/GITPRJ/DSP/ABT001/ATV/ABT001-ATV-DSP/lab3-timer0_LED/INCLUDE" --include_path="D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/include" --include_path="/packages/ti/xdais" --diag_warning=225 --large_memory_model --float_support=fpu32 --preproc_with_compile --preproc_dependency="SRC/DSP2833x_CodeStartBranch.pp"  "../SRC/DSP2833x_CodeStartBranch.asm"
+'Finished building: ../SRC/DSP2833x_CodeStartBranch.asm'
+' '
+'Building file: ../SRC/DSP2833x_CpuTimers.c'
+'Invoking: C2000 Compiler'
+"D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/bin/cl2000" --silicon_version=28 -g --define="_DEBUG" --define="LARGE_MODEL" --include_path="F:/ABT/GITPRJ/DSP/ABT001/ATV/ABT001-ATV-DSP/lab3-timer0_LED/INCLUDE" --include_path="D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/include" --include_path="/packages/ti/xdais" --diag_warning=225 --large_memory_model --float_support=fpu32 --preproc_with_compile --preproc_dependency="SRC/DSP2833x_CpuTimers.pp"  "../SRC/DSP2833x_CpuTimers.c"
+'Finished building: ../SRC/DSP2833x_CpuTimers.c'
+' '
+'Building file: ../SRC/DSP2833x_DefaultIsr.c'
+'Invoking: C2000 Compiler'
+"D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/bin/cl2000" --silicon_version=28 -g --define="_DEBUG" --define="LARGE_MODEL" --include_path="F:/ABT/GITPRJ/DSP/ABT001/ATV/ABT001-ATV-DSP/lab3-timer0_LED/INCLUDE" --include_path="D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/include" --include_path="/packages/ti/xdais" --diag_warning=225 --large_memory_model --float_support=fpu32 --preproc_with_compile --preproc_dependency="SRC/DSP2833x_DefaultIsr.pp"  "../SRC/DSP2833x_DefaultIsr.c"
+'Finished building: ../SRC/DSP2833x_DefaultIsr.c'
+' '
+'Building file: ../SRC/DSP2833x_GlobalVariableDefs.c'
+'Invoking: C2000 Compiler'
+"D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/bin/cl2000" --silicon_version=28 -g --define="_DEBUG" --define="LARGE_MODEL" --include_path="F:/ABT/GITPRJ/DSP/ABT001/ATV/ABT001-ATV-DSP/lab3-timer0_LED/INCLUDE" --include_path="D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/include" --include_path="/packages/ti/xdais" --diag_warning=225 --large_memory_model --float_support=fpu32 --preproc_with_compile --preproc_dependency="SRC/DSP2833x_GlobalVariableDefs.pp"  "../SRC/DSP2833x_GlobalVariableDefs.c"
+'Finished building: ../SRC/DSP2833x_GlobalVariableDefs.c'
+' '
+'Building file: ../SRC/DSP2833x_PieCtrl.c'
+'Invoking: C2000 Compiler'
+"D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/bin/cl2000" --silicon_version=28 -g --define="_DEBUG" --define="LARGE_MODEL" --include_path="F:/ABT/GITPRJ/DSP/ABT001/ATV/ABT001-ATV-DSP/lab3-timer0_LED/INCLUDE" --include_path="D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/include" --include_path="/packages/ti/xdais" --diag_warning=225 --large_memory_model --float_support=fpu32 --preproc_with_compile --preproc_dependency="SRC/DSP2833x_PieCtrl.pp"  "../SRC/DSP2833x_PieCtrl.c"
+'Finished building: ../SRC/DSP2833x_PieCtrl.c'
+' '
+'Building file: ../SRC/DSP2833x_PieVect.c'
+'Invoking: C2000 Compiler'
+"D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/bin/cl2000" --silicon_version=28 -g --define="_DEBUG" --define="LARGE_MODEL" --include_path="F:/ABT/GITPRJ/DSP/ABT001/ATV/ABT001-ATV-DSP/lab3-timer0_LED/INCLUDE" --include_path="D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/include" --include_path="/packages/ti/xdais" --diag_warning=225 --large_memory_model --float_support=fpu32 --preproc_with_compile --preproc_dependency="SRC/DSP2833x_PieVect.pp"  "../SRC/DSP2833x_PieVect.c"
+'Finished building: ../SRC/DSP2833x_PieVect.c'
+' '
+'Building file: ../SRC/DSP2833x_Sci.c'
+'Invoking: C2000 Compiler'
+"D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/bin/cl2000" --silicon_version=28 -g --define="_DEBUG" --define="LARGE_MODEL" --include_path="F:/ABT/GITPRJ/DSP/ABT001/ATV/ABT001-ATV-DSP/lab3-timer0_LED/INCLUDE" --include_path="D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/include" --include_path="/packages/ti/xdais" --diag_warning=225 --large_memory_model --float_support=fpu32 --preproc_with_compile --preproc_dependency="SRC/DSP2833x_Sci.pp"  "../SRC/DSP2833x_Sci.c"
+'Finished building: ../SRC/DSP2833x_Sci.c'
+' '
+'Building file: ../SRC/DSP2833x_Spi.c'
+'Invoking: C2000 Compiler'
+"D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/bin/cl2000" --silicon_version=28 -g --define="_DEBUG" --define="LARGE_MODEL" --include_path="F:/ABT/GITPRJ/DSP/ABT001/ATV/ABT001-ATV-DSP/lab3-timer0_LED/INCLUDE" --include_path="D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/include" --include_path="/packages/ti/xdais" --diag_warning=225 --large_memory_model --float_support=fpu32 --preproc_with_compile --preproc_dependency="SRC/DSP2833x_Spi.pp"  "../SRC/DSP2833x_Spi.c"
+'Finished building: ../SRC/DSP2833x_Spi.c'
+' '
+'Building file: ../SRC/DSP2833x_SysCtrl.c'
+'Invoking: C2000 Compiler'
+"D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/bin/cl2000" --silicon_version=28 -g --define="_DEBUG" --define="LARGE_MODEL" --include_path="F:/ABT/GITPRJ/DSP/ABT001/ATV/ABT001-ATV-DSP/lab3-timer0_LED/INCLUDE" --include_path="D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/include" --include_path="/packages/ti/xdais" --diag_warning=225 --large_memory_model --float_support=fpu32 --preproc_with_compile --preproc_dependency="SRC/DSP2833x_SysCtrl.pp"  "../SRC/DSP2833x_SysCtrl.c"
+'Finished building: ../SRC/DSP2833x_SysCtrl.c'
+' '
+'Building file: ../SRC/DSP2833x_Xintf.c'
+'Invoking: C2000 Compiler'
+"D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/bin/cl2000" --silicon_version=28 -g --define="_DEBUG" --define="LARGE_MODEL" --include_path="F:/ABT/GITPRJ/DSP/ABT001/ATV/ABT001-ATV-DSP/lab3-timer0_LED/INCLUDE" --include_path="D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/include" --include_path="/packages/ti/xdais" --diag_warning=225 --large_memory_model --float_support=fpu32 --preproc_with_compile --preproc_dependency="SRC/DSP2833x_Xintf.pp"  "../SRC/DSP2833x_Xintf.c"
+'Finished building: ../SRC/DSP2833x_Xintf.c'
+' '
+'Building file: ../SRC/DSP2833x_usDelay.asm'
+'Invoking: C2000 Compiler'
+"D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/bin/cl2000" --silicon_version=28 -g --define="_DEBUG" --define="LARGE_MODEL" --include_path="F:/ABT/GITPRJ/DSP/ABT001/ATV/ABT001-ATV-DSP/lab3-timer0_LED/INCLUDE" --include_path="D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/include" --include_path="/packages/ti/xdais" --diag_warning=225 --large_memory_model --float_support=fpu32 --preproc_with_compile --preproc_dependency="SRC/DSP2833x_usDelay.pp"  "../SRC/DSP2833x_usDelay.asm"
+'Finished building: ../SRC/DSP2833x_usDelay.asm'
+' '
+'Building file: ../SRC/SHJK_DAC.c'
+'Invoking: C2000 Compiler'
+"D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/bin/cl2000" --silicon_version=28 -g --define="_DEBUG" --define="LARGE_MODEL" --include_path="F:/ABT/GITPRJ/DSP/ABT001/ATV/ABT001-ATV-DSP/lab3-timer0_LED/INCLUDE" --include_path="D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/include" --include_path="/packages/ti/xdais" --diag_warning=225 --large_memory_model --float_support=fpu32 --preproc_with_compile --preproc_dependency="SRC/SHJK_DAC.pp"  "../SRC/SHJK_DAC.c"
+"../SRC/SHJK_DAC.c", line 357: warning: variable "dataTemp" was set but never used
+'Finished building: ../SRC/SHJK_DAC.c'
+' '
+'Building file: ../SRC/SHJK_PID.c'
+'Invoking: C2000 Compiler'
+"D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/bin/cl2000" --silicon_version=28 -g --define="_DEBUG" --define="LARGE_MODEL" --include_path="F:/ABT/GITPRJ/DSP/ABT001/ATV/ABT001-ATV-DSP/lab3-timer0_LED/INCLUDE" --include_path="D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/include" --include_path="/packages/ti/xdais" --diag_warning=225 --large_memory_model --float_support=fpu32 --preproc_with_compile --preproc_dependency="SRC/SHJK_PID.pp"  "../SRC/SHJK_PID.c"
+'Finished building: ../SRC/SHJK_PID.c'
+' '
+'Building file: ../SRC/SHJK_UART.c'
+'Invoking: C2000 Compiler'
+"D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/bin/cl2000" --silicon_version=28 -g --define="_DEBUG" --define="LARGE_MODEL" --include_path="F:/ABT/GITPRJ/DSP/ABT001/ATV/ABT001-ATV-DSP/lab3-timer0_LED/INCLUDE" --include_path="D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/include" --include_path="/packages/ti/xdais" --diag_warning=225 --large_memory_model --float_support=fpu32 --preproc_with_compile --preproc_dependency="SRC/SHJK_UART.pp"  "../SRC/SHJK_UART.c"
+'Finished building: ../SRC/SHJK_UART.c'
+' '
+'Building file: ../SRC/TIMER0.c'
+'Invoking: C2000 Compiler'
+"D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/bin/cl2000" --silicon_version=28 -g --define="_DEBUG" --define="LARGE_MODEL" --include_path="F:/ABT/GITPRJ/DSP/ABT001/ATV/ABT001-ATV-DSP/lab3-timer0_LED/INCLUDE" --include_path="D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/include" --include_path="/packages/ti/xdais" --diag_warning=225 --large_memory_model --float_support=fpu32 --preproc_with_compile --preproc_dependency="SRC/TIMER0.pp"  "../SRC/TIMER0.c"
+"../SRC/TIMER0.c", line 299: warning: loop is not reachable
+"../SRC/TIMER0.c", line 178: warning: variable "RcharTemp" was declared but never referenced
+"../SRC/TIMER0.c", line 179: warning: variable "RChar" was declared but never referenced
+'Finished building: ../SRC/TIMER0.c'
+' '
+'Building target: TIMER0.out'
+'Invoking: C2000 Linker'
+"D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/bin/cl2000" --silicon_version=28 -g --define="_DEBUG" --define="LARGE_MODEL" --diag_warning=225 --large_memory_model --float_support=fpu32 -z -m"TIMER0.map" --stack_size=1000 --heap_size=1000 --warn_sections -i"D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/lib" -i"D:/TICCS/ccsv6/tools/compiler/c2000_6.2.5/include" -i"F:/ABT/GITPRJ/DSP/ABT001/ATV/ABT001-ATV-DSP/lab3-timer0_LED" --reread_libs --xml_link_info="TIMER0_linkInfo.xml" --rom_model -o "TIMER0.out"  "../CMD/DSP2833x_Headers_nonBIOS.cmd" "./TIMER0.obj" "./SHJK_UART.obj" "./SHJK_PID.obj" "./SHJK_DAC.obj" "./DSP2833x_usDelay.obj" "./DSP2833x_Xintf.obj" "./DSP2833x_SysCtrl.obj" "./DSP2833x_Spi.obj" "./DSP2833x_Sci.obj" "./DSP2833x_PieVect.obj" "./DSP2833x_PieCtrl.obj" "./DSP2833x_GlobalVariableDefs.obj" "./DSP2833x_DefaultIsr.obj" "./DSP2833x_CpuTimers.obj" "./DSP2833x_CodeStartBranch.obj" "./DSP2833x_Adc.obj" "./DSP2833x_ADC_cal.obj" "../CMD/F28335.cmd" -l"rts2800_fpu32.lib" 
+<Linking>
+'Finished building target: TIMER0.out'
+' '
+
+**** Build Finished ****
